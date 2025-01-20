@@ -5,7 +5,7 @@ I'm an AI Product Operations Analyst with 5 years of experience in leveraging te
 
 ### 🛠️ Skills
 - **Programming & Scripting**: Python
-- **Data Visualization & Analysis**: Power BI
+- **Data Visualization & Analysis**: Power BI, Excel & Google sheet
 - **Cloud Platforms**: AWS, GCP
 - **AI & NLP Tools**: OpenAI, Anthropic
 - **Data Science & Engineering**: SQL, Phidata
